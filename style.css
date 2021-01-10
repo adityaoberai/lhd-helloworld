@@ -69,11 +69,12 @@ body {
 }
 
 .title-image {
-    max-width: 50vw;
+    max-width: 90vw;
     max-height: auto;
     padding: 2vw;
     border: 2px solid var(--main-gray);
     border-radius: 3vw;
+    margin-top: 5vh;
 }
 
 .button {
@@ -119,6 +120,15 @@ h3 {
 }
 
 @media screen and (min-width: 600px) {
+    .title-image {
+        max-width: 70vw;
+        max-height: auto;
+        padding: 2vw;
+        border: 2px solid var(--main-gray);
+        border-radius: 3vw;
+        margin-top: 5vh;
+    } 
+    
     .general-image {
         max-width: 60vw;
         max-height: auto;
@@ -145,6 +155,15 @@ h3 {
 }
 
 @media screen and (min-width: 1200px) {
+    .title-image {
+        max-width: 50vw;
+        max-height: auto;
+        padding: 2vw;
+        border: 2px solid var(--main-gray);
+        border-radius: 3vw;
+        margin-top: 5vh;
+    } 
+
     .general-image {
         max-width: 40vw;
         max-height: auto;
