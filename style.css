@@ -61,7 +61,7 @@ body {
     text-decoration: none;
     background-color: var(--main-gray);
     color: var(--main-white);
-    padding: 0 2vw;
+    padding: 0 5vw;
     line-height: 10vh;
 }
 
@@ -129,6 +129,14 @@ h3 {
 }
 
 @media screen and (min-width: 600px) {
+    #navbar ul li a {
+        text-decoration: none;
+        background-color: var(--main-gray);
+        color: var(--main-white);
+        padding: 0 2vw;
+        line-height: 10vh;
+    }
+    
     .title-image {
         max-width: 70vw;
         max-height: auto;
