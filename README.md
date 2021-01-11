@@ -14,4 +14,4 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | Tutorial Name (with Link)                                                                         | Programming Language Covered | Contributor ID (with Profile Link)              |
 | ------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | [Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET)                    | [adityaoberai](https://github.com/adityaoberai) |
-| [Hello World in 10 Minutes](https://www.geeksforgeeks.org/hello-world-in-golang/)                 | Golang                       | [alen-jojo](https://github.com/Alenjojo)     |
+| [Hello World in 10 Minutes](https://www.geeksforgeeks.org/hello-world-in-golang/)                 | Golang                       | [Alen-Jojo](https://github.com/Alenjojo)     |
