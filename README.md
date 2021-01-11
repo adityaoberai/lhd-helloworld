@@ -16,7 +16,7 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | Tutorial Name (with Link) | Programming Language Covered | Contributor GitHub ID (with Profile Link) |
 | - | - | - |
 | [.NET - Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
-| [Hello World in Perl](https://www.geeksforgeeks.org/hello-world-program-in-perl) | Perl | [adityaoberai](https://github.com/Alenjojo) |
+| [Hello World in Perl](https://www.geeksforgeeks.org/hello-world-program-in-perl) | Perl | [Alen-Jojo](https://github.com/Alenjojo) |
 | [A Hello World App using Flutter](https://www.geeksforgeeks.org/a-hello-world-app-using-flutter/) | Dart (Flutter) | [shubhangi0304](https://github.com/shubhangi0304) |
 | [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) | Ruby | [Akshu-on-github](https://github.com/Akshu-on-github) |
 | [Hello World in C# from REPL.it](https://repl.it/languages/csharp) | C# | [UmairJibran](https://github.com/UmairJibran/)|
