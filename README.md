@@ -18,4 +18,4 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Learn C Programming](https://www.programiz.com/c-programming) | C | [iamyajat](https://github.com/iamyajat) |
 | [Hello World in Pascal by TutorialsPoint](https://www.tutorialspoint.com/pascal/pascal_program_structure.htm) | Pascal | [dumbcoder7](https://github.com/dumbcoder7) |
 | [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [Yuvraj Dagur](https://github.com/thatfreakcoder) |
-| [Hello World in Kotlin](https://www.javatpoint.com/kotlin-hello-world-program-command-line) | Kotlin | [Utkarsh-Agarwal-585](https://github.com/Utkarsh-Agarwal-585) |
+| [Kotlin Hello World Javatpoint Tutorial](https://www.javatpoint.com/kotlin-hello-world-program-command-line) | Kotlin | [Utkarsh-Agarwal-585](https://github.com/Utkarsh-Agarwal-585) |
