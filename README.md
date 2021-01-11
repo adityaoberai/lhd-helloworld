@@ -25,3 +25,6 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Hello World in Pascal by TutorialsPoint](https://www.tutorialspoint.com/pascal/pascal_program_structure.htm) | Pascal | [dumbcoder7](https://github.com/dumbcoder7) |
 | [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [Yuvraj Dagur](https://github.com/thatfreakcoder) |
 | [Hello World in PHP](https://scriptverse.academy/tutorials/php-hello-world.html) | PHP | [Taha Jamal](https://github.com/shadowasphodel2919) |
+| [Hello World in Python](https://www.programiz.com/python-programming/examples/hello-world) | Python | [Gita Alekhya Paul](https://github.com/gitaalekhyapaul) |
+| [Hello World in JavaScript](https://www.programiz.com/javascript/examples/hello-world) | JavaScript (Browser) | [Aniruddha Chatterjee](https://github.com/ruddha2001) |
+| [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [thatfreakcoder](https://github.com/thatfreakcoder) |
