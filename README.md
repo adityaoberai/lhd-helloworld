@@ -27,3 +27,4 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Hello World in JavaScript](https://www.programiz.com/javascript/examples/hello-world) | JavaScript (Browser) | [Aniruddha Chatterjee](https://github.com/ruddha2001) |
 | [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [thatfreakcoder](https://github.com/thatfreakcoder) |
 | [Learn C++](https://www.programiz.com/cpp-programming/examples/print-sentence) | C++ | [jagnani73](https://github.com/jagnani73) |
+| [Learn Hello World in Java](https://www.programiz.com/java-programming/hello-world) |Java| [nidhiyadav0197] (https://github.com/nidhiyadav0197) |
