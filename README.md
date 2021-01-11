@@ -14,6 +14,7 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | Tutorial Name (with Link) | Programming Language Covered | Contributor ID (with Profile Link) |
 | - | - | - |
 | [Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
+| [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) | Ruby | [akshu](https://github.com/Akshu-on-github) |
 | [Hello World from REPL.it](https://repl.it/languages/csharp) | C# | [UmairJibran](https://github.com/UmairJibran/)|
 | [Hello World in Golang](https://www.geeksforgeeks.org/hello-world-in-golang/) | Golang | [Aayushi-Mittal](https://github.com/Aayushi-Mittal) |
 | [Hello World and basic config](https://code.visualstudio.com/docs/typescript/typescript-tutorial) | Typescript | [AgrMohit](http://github.com/agrmohit) |
