@@ -28,4 +28,4 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Hello World in JavaScript (Programiz)](https://www.programiz.com/javascript/examples/hello-world) | JavaScript (Browser) | [ruddha2001](https://github.com/ruddha2001) |
 | [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [thatfreakcoder](https://github.com/thatfreakcoder) |
 | [Learn C++](https://www.programiz.com/cpp-programming/examples/print-sentence) | C++ | [jagnani73](https://github.com/jagnani73) |
-| [Why should Brainfuck be left behind!](https://therenegadecoder.com/code/hello-world-in-brainfuck/#hello-world-in-brainfuck) | Brainfack) | [dhruvam-zaveri](https://github.com/dhruvam-zaveri) |
+| [Why should Brainfuck be left behind!](https://therenegadecoder.com/code/hello-world-in-brainfuck/#hello-world-in-brainfuck) | Brainfuck | [dhruvam-zaveri](https://github.com/dhruvam-zaveri) |
