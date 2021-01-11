@@ -11,6 +11,7 @@ This tutorial is based on the [Hello World in 10 Minutes tutorial on the .NET we
 
 I would love to list more awesome "Hello, World!" tutorials here for anyone to view and try. If you would like to contribute links of any such tutorials, please **fork** this repository, and add them to the table below in the format specified.
 
-| Tutorial Name (with Link) | Programming Language Covered | Contributor ID (with Profile Link) |
-| - | - | - |
-| [Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
+| Tutorial Name (with Link)                                                                         | Programming Language Covered | Contributor ID (with Profile Link)              |
+| ------------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
+| [Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET)                    | [adityaoberai](https://github.com/adityaoberai) |
+| [Hello World in 10 Minutes](https://www.geeksforgeeks.org/hello-world-in-golang/)                 | Golang                       | [deep-codes](https://github.com/Deep-Codes)     |
