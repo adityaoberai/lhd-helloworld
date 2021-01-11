@@ -23,9 +23,8 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Typescript Hello World and basic config](https://code.visualstudio.com/docs/typescript/typescript-tutorial) | Typescript | [agrmohit](http://github.com/agrmohit) |
 | [Learn C Programming](https://www.programiz.com/c-programming) | C | [iamyajat](https://github.com/iamyajat) |
 | [Hello World in Pascal by TutorialsPoint](https://www.tutorialspoint.com/pascal/pascal_program_structure.htm) | Pascal | [dumbcoder7](https://github.com/dumbcoder7) |
-| [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [Yuvraj Dagur](https://github.com/thatfreakcoder) |
-| [Hello World in JavaScript (Geeks4Geeks)](https://www.geeksforgeeks.org/javascript-course-printing-hello-world-in-javascript/) | JavaScript | [Shobit Deshwal](https://github.com/shobhit1503) |
-| [Hello World in Python](https://www.programiz.com/python-programming/examples/hello-world) | Python | [Gita Alekhya Paul](https://github.com/gitaalekhyapaul) |
-| [Hello World in JavaScript (Programiz)](https://www.programiz.com/javascript/examples/hello-world) | JavaScript (Browser) | [Aniruddha Chatterjee](https://github.com/ruddha2001) |
+| [Hello World in JavaScript (Geeks4Geeks)](https://www.geeksforgeeks.org/javascript-course-printing-hello-world-in-javascript/) | JavaScript | [shobhit1503](https://github.com/shobhit1503) |
+| [Hello World in Python](https://www.programiz.com/python-programming/examples/hello-world) | Python | [gitaalekhyapaul](https://github.com/gitaalekhyapaul) |
+| [Hello World in JavaScript (Programiz)](https://www.programiz.com/javascript/examples/hello-world) | JavaScript (Browser) | [ruddha2001](https://github.com/ruddha2001) |
 | [Hello World in Kotlin](https://www.geeksforgeeks.org/hello-world-program-in-kotlin/) | Kotlin (Android) | [thatfreakcoder](https://github.com/thatfreakcoder) |
 | [Learn C++](https://www.programiz.com/cpp-programming/examples/print-sentence) | C++ | [jagnani73](https://github.com/jagnani73) |
