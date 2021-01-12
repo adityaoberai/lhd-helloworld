@@ -36,3 +36,4 @@ I would love to list more awesome "Hello, World!" tutorials here for anyone to v
 | [Hello World in Brainfuck](https://therenegadecoder.com/code/hello-world-in-brainfuck/#hello-world-in-brainfuck) | Brainfuck | [dhruvam-zaveri](https://github.com/dhruvam-zaveri) |
 | [Hello World in PHP](https://scriptverse.academy/tutorials/php-hello-world.html) | PHP | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
 | [Learn C++](https://www.programiz.com/cpp-programming/examples/print-sentence) | C++ | [jagnani73](https://github.com/jagnani73) |
+| [Hello World in R](https://www.tutorialspoint.com/r/r_basic_syntax.htm) | R | [samflab](https://github.com/samflab) |
