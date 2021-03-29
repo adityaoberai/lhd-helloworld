@@ -12,7 +12,7 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [.NET - Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
 | [Hello World in Swift](https://www.programiz.com/swift-programming/hello-world) | Swift | [thisisshivamgupta](https://github.com/thisisshivamgupta) |
 | [Hello World in Perl](https://www.geeksforgeeks.org/hello-world-program-in-perl) | Perl | [Alenjojo](https://github.com/Alenjojo) |
-| [A Hello World App using Flutter](https://www.geeksforgeeks.org/a-hello-world-app-using-flutter/) | Dart (Flutter) | [shubhangi0304](https://github.com/shubhangi0304) |
+| [A Hello World App using Flutter (Geeks4Geeks)](https://www.geeksforgeeks.org/a-hello-world-app-using-flutter/) | Dart (Flutter) | [shubhangi0304](https://github.com/shubhangi0304) |
 | [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) | Ruby | [Akshu-on-github](https://github.com/Akshu-on-github) |
 | [Hello World in C# from REPL.it](https://repl.it/languages/csharp) | C# | [UmairJibran](https://github.com/UmairJibran/)|
 | [Hello World in Golang](https://www.geeksforgeeks.org/hello-world-in-golang/) | Golang | [Aayushi-Mittal](https://github.com/Aayushi-Mittal) |
@@ -33,3 +33,4 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [Hello World in Haskell](https://riptutorial.com/haskell/example/898/hello--world-) | Haskell | [GowthamGoush](https://github.com/GowthamGoush) |
 | [Hello World in Julia](https://juliabyexample.helpmanual.io/) | Julia | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
 | [Hello World in F#](https://www.javatpoint.com/f-sharp-example) | F# | [muthuannamalai12](https://github.com/muthuannamalai12) |
+| [Hello World in Dart (W3Adda)](https://www.w3adda.com/dart-tutorial/dart-hello-world-program) | Dart | [harikishantk](https://github.com/harikishantk) |
