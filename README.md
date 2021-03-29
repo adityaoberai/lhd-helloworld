@@ -37,5 +37,5 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 
 ---
 
-*Note: The* **Example Hello World Apps/** *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
+*Note: The* `Example Hello World Apps/` *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
 
