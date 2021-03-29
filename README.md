@@ -34,7 +34,7 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [Hello World in Julia](https://juliabyexample.helpmanual.io/) | Julia | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
 | [Hello World in F#](https://www.javatpoint.com/f-sharp-example) | F# | [muthuannamalai12](https://github.com/muthuannamalai12) |
 | [Hello World in Dart (W3Adda)](https://www.w3adda.com/dart-tutorial/dart-hello-world-program) | Dart | [harikishantk](https://github.com/harikishantk) |
-| [Hello World in Rust(Rust By Example)](https://doc.rust-lang.org/rust-by-example/hello.html) | Rust | [Tectrix-tech](https://github.com/Tectrix-tech) |
+| [Hello World in Rust](https://doc.rust-lang.org/rust-by-example/hello.html) | Rust | [Tectrix-tech](https://github.com/Tectrix-tech) |
 ---
 
 *Note: The* `Example Hello World Apps/` *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
