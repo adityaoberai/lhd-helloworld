@@ -30,3 +30,4 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [Hello World in PHP](https://scriptverse.academy/tutorials/php-hello-world.html) | PHP | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
 | [Learn C++](https://www.programiz.com/cpp-programming/examples/print-sentence) | C++ | [jagnani73](https://github.com/jagnani73) |
 | [Hello World in R](https://www.tutorialspoint.com/r/r_basic_syntax.htm) | R | [samflab](https://github.com/samflab) |
+| [Hello World in Haskell](https://riptutorial.com/haskell/example/898/hello--world-) | Haskell | [GowthamGoush](https://github.com/GowthamGoush) |
