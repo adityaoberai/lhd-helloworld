@@ -4,6 +4,8 @@ This repo contains various **Hello, World** tutorials that participants from the
 
 If you would like to contribute links of any such tutorials, please **fork** this repository, and add them to the table below in the format specified.
 
+*Note: The* **Example Hello World Apps/** *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
+
 ---
 
 | Tutorial Name (with Link) | Programming Language Covered | Contributor GitHub ID (with Profile Link) |
