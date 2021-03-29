@@ -32,3 +32,4 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [Hello World in R](https://www.tutorialspoint.com/r/r_basic_syntax.htm) | R | [samflab](https://github.com/samflab) |
 | [Hello World in Haskell](https://riptutorial.com/haskell/example/898/hello--world-) | Haskell | [GowthamGoush](https://github.com/GowthamGoush) |
 | [Hello World in Julia](https://juliabyexample.helpmanual.io/) | Julia | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
+| [Hello World in F#](https://www.javatpoint.com/f-sharp-example) | F# | [muthuannamalai12](https://github.com/muthuannamalai12) |
