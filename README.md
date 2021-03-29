@@ -1,20 +1,14 @@
-# Hello, World in a New Language - MLH Local Hack Day: Build 2020
+# Hello, World in a New Language - MLH Local Hack Day
 
-This tutorial has been created for the "Hello, World in a New Language" session at MLH Local Hack Day: Build 2020.
-In this tutorial, you will create a simple .NET application written in C# that prints Hello World! to the console.
+This repo contains various **Hello, World** tutorials that participants from the **Hello, World in a New Language** sessions at [MLH Local Hack Day](https://lhd.mlh.io) tried and contributed.
 
-You can find the [example .NET console application here](docs/example-app)
-
-This tutorial is based on the [Hello World in 10 Minutes tutorial on the .NET website](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
+If you would like to contribute links of any such tutorials, please **fork** this repository, and add them to the table below in the format specified.
 
 ---
 
-## More Awesome "Hello, World!" Tutorials
-
-I would love to list more awesome "Hello, World!" tutorials here for anyone to view and try. If you would like to contribute links of any such tutorials, please **fork** this repository, and add them to the table below in the format specified.
-
 | Tutorial Name (with Link) | Programming Language Covered | Contributor GitHub ID (with Profile Link) |
 | - | - | - |
+| [C# and .NET - LHD: Build 2020](https://adityaoberai.live/lhdbuild-helloworld/) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
 | [.NET - Hello World in 10 Minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) | C# (.NET) | [adityaoberai](https://github.com/adityaoberai) |
 | [Hello World in Swift](https://www.programiz.com/swift-programming/hello-world) | Swift | [thisisshivamgupta](https://github.com/thisisshivamgupta) |
 | [Hello World in Perl](https://www.geeksforgeeks.org/hello-world-program-in-perl) | Perl | [Alenjojo](https://github.com/Alenjojo) |
