@@ -4,8 +4,6 @@ This repo contains various **Hello, World** tutorials that participants from the
 
 If you would like to contribute links of any such tutorials, please **fork** this repository, and add them to the table below in the format specified.
 
-*Note: The* **Example Hello World Apps/** *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
-
 ---
 
 | Tutorial Name (with Link) | Programming Language Covered | Contributor GitHub ID (with Profile Link) |
@@ -36,3 +34,8 @@ If you would like to contribute links of any such tutorials, please **fork** thi
 | [Hello World in Julia](https://juliabyexample.helpmanual.io/) | Julia | [shadowasphodel2919](https://github.com/shadowasphodel2919) |
 | [Hello World in F#](https://www.javatpoint.com/f-sharp-example) | F# | [muthuannamalai12](https://github.com/muthuannamalai12) |
 | [Hello World in Dart (W3Adda)](https://www.w3adda.com/dart-tutorial/dart-hello-world-program) | Dart | [harikishantk](https://github.com/harikishantk) |
+
+---
+
+*Note: The* **Example Hello World Apps/** *folder contains* **Hello World apps** *created in the sessions at MLH Local Hack Day: Build 2020 and MLH Local Hack Day: Share 2021. Please do not edit that.*
+
