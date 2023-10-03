@@ -9,6 +9,7 @@ public class Main
         int num=23;
         String name;
         System.out.print("What is your name? ");
+        System.out.print("What is your age? ");
         name=sc.nextLine();
         System.out.println(name+" loves the number "+num);
     }
